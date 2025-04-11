@@ -2,7 +2,7 @@
   <div>
     <h1>🛒 Vuex Cart App</h1>
     <ProductList />
-    <CartVue />
+    <CartVue/>
   </div>
 </template>
 
